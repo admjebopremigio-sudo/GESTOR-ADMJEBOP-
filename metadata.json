@@ -1,0 +1,6 @@
+{
+  "name": "GESTOR – ADMJEBOP REMÍGIO",
+  "description": "Sistema Administrativo Ministerial para a Assembleia de Deus – Ministério Jesus o Bom Pastor, Congregação de Remígio-PB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
